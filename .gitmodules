@@ -1,3 +1,6 @@
 [submodule "Frameworks/Internal/ImaggaRouter"]
 	path = Frameworks/Internal/ImaggaRouter
 	url = ../ImaggaRouter
+[submodule "Frameworks/External/Alamofire"]
+	path = Frameworks/External/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
